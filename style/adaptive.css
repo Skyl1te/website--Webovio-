@@ -8,7 +8,8 @@
 @media (width <= 1148px) 
 {
     .services__list {
-        flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
         
     }
 
@@ -21,7 +22,8 @@
     }
 
     .footer__middle {
-        flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
     }
 
     .footer-column {
@@ -92,7 +94,8 @@
     }
 
     .footer__top {
-        flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
     }
     .footer__contacts {
         width: 100%;
@@ -112,7 +115,8 @@
     }
 
     .footer-bottom {
-        flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
     }
 
     .footer-bottom__copyright {
