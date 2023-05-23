@@ -292,6 +292,7 @@
   color: #D4D6D4;
   margin-top: 50px;
   -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out;
 }
 
@@ -301,11 +302,13 @@
 
 .footer-column__social-item a {
   -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out;
 }
 
 .footer-column__social-item a:hover {
   -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out;
 }
 
@@ -732,6 +735,7 @@ template {
   text-decoration: none;
   color: #d4d6d4;
   -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out;
 }
 
@@ -756,5 +760,6 @@ a {
 .scroll-page {
   opacity: 0;
   -webkit-transition: opacity .5s linear;
+  -o-transition: opacity .5s linear;
   transition: opacity .5s linear;
 }
