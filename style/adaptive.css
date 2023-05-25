@@ -81,7 +81,7 @@
     }
 }
 
-@media (width <= 425px) {
+@media (width <= 426px) {
     .hero__title, .get-started__title {
         font-size: 35px;
         line-height: 55px;
